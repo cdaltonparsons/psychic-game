@@ -1,0 +1,20 @@
+body {
+    background: url(https://images.pexels.com/photos/1927507/pexels-photo-1927507.jpeg?cs=srgb&dl=art-backdrop-background-1927507.jpg&fm=jpg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 32px;
+    font-size: 18px;
+    color: #e0e06b
+
+}
+
+.main-container {
+    width: 90%;
+    height: 60%;
+    margin: 5%;
+    background: #322863;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bolder;
+}
