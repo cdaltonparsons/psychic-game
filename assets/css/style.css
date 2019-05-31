@@ -1,5 +1,5 @@
 body {
-    background: url(https://images.pexels.com/photos/1927507/pexels-photo-1927507.jpeg?cs=srgb&dl=art-backdrop-background-1927507.jpg&fm=jpg);
+    background: url(https://images.unsplash.com/photo-1505358131519-deb04e8e7ae3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80);
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 32px;
     font-size: 18px;
@@ -8,10 +8,11 @@ body {
 }
 
 .main-container {
-    width: 90%;
-    height: 60%;
-    margin: 5%;
+    margin-top: 350px;
+    margin-left: 200px;
     background: #322863;
+    width: 75%;
+    height: auto;
 }
 
 h1 {
